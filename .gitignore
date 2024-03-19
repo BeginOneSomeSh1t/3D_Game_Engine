@@ -3,6 +3,7 @@ x64/
 DirectX/x64/
 DirectX/Models/
 DirectX/DirectX/x64/
+ExternalLibraries/
 DirectX/DirectX/Models/
 *.dll
 .vs/
