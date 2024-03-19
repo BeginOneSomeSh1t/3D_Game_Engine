@@ -1,2 +1,2 @@
-# 3D_GameEngine_DirectX
- This is a simple 3d engine written in c++. 
+# 3D_Game_Engine
+Simple 3d game engine.
